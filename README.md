@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arup Gharami</h1>
+<marquee><h1 align="center">Hi 👋, I'm Arup Gharami</h1></marquee>
 <h3 align="center">A passionate full stack python developer from India</h3>
 
 - 📫 How to reach me **arupgharami32@gmail.com**
